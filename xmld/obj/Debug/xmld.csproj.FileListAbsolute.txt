@@ -1,0 +1,7 @@
+c:\users\admin\documents\visual studio 2015\Projects\xmld\xmld\bin\Debug\xmld.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\xmld\xmld\bin\Debug\xmld.exe
+c:\users\admin\documents\visual studio 2015\Projects\xmld\xmld\bin\Debug\xmld.pdb
+c:\users\admin\documents\visual studio 2015\Projects\xmld\xmld\obj\Debug\xmld.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\xmld\xmld\obj\Debug\xmld.exe
+c:\users\admin\documents\visual studio 2015\Projects\xmld\xmld\obj\Debug\xmld.pdb
+c:\users\admin\documents\visual studio 2015\Projects\xmld\xmld\bin\Debug\XMLFile1.xml
